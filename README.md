@@ -20,4 +20,4 @@ Wireframe 4 (https://rodrigovidalguzmandiaz.github.io/telefono_4/)
 Imagen https://drive.google.com/file/d/1a60msWnLWSUF1FugaemYDJjx9nuE1xIX/view?usp=sharing
 
 
-Wireframes realizados con la plantilla de iphone 6/7/8 y iphone 6/7/8 plus
+"Wireframes realizados con la plantilla de iphone 6/7/8 y iphone 6/7/8 plus"
